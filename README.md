@@ -33,7 +33,7 @@ Listas sin orden
 * Item
 * Item
 
-"var name = 'Escuela de Javascript'
+`var name = 'Escuela de Javascript'
 
-console.log(name)"
+console.log(name)`
 
